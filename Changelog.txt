@@ -1,0 +1,5 @@
+0.2 Civilization added
+Added a new civilization type for humans. It is playable both in adventure and in fortress mode. For now this is the only civilization which can make modded stuff.
+
+0.1 Initial release
+Added hachiwara, bokken, kaiken, kama, katana, odachi, wakizashi, shitagi, dou, hakama, fundoshi, kyahan, suneate, haidate, kabuto, mengu, kote, tabi and waraji. Weapons will probably need balancing, and armour layering is provisional.

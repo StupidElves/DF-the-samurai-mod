@@ -1,0 +1,17 @@
+Installation
+============
+Merge the raw folder included in the archive over your existing raw folder. Nothing will be overwritten.
+
+How to play as the samurai people
+=================================
+This mod adds a new civilization type for humans which is playable both in adventure and fortress mode.
+
+Adventure mode
+--------------
+You have to select "Human of *", where '*' is a bunch of Japanese words. Whether there is such a civilization depends on your world gen.
+
+Fortress mode
+----------
+You have two options. If you can easily recognize japanese words (romanji), go into Legends mode and locate a civilization with a Japanese name from the civilizations list. Then go to Fortress mode and in the site location selection screen press tab to bring up the civilization list for selection. Choose the civilization you located earlier as your starting civilization and play as normal.
+
+If you can't identify a civilization as "Japanese" by its name, go into the world's history and locate a civilization with a "shogun" instead of a king and that's what you're looking for.
