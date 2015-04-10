@@ -999,7 +999,6 @@ language_SAMURAI
 	[T_WORD:YEAR:toshi]
 	[T_WORD:YEARLING:ichi toshigo]
 	[T_WORD:YELLOW:ierou]
-	[T_WORD:YOR:dou ka to]
 	[T_WORD:YOUNG:wakai]
 	[T_WORD:YOUTH:waka sa]
 	[T_WORD:ZEAL:netsui]
